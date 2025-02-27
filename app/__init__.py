@@ -1,0 +1,1 @@
+"""Scientific search application package."""
